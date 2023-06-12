@@ -1,5 +1,4 @@
 import { component$ } from '@builder.io/qwik';
-import { EcoWestLogo } from '../icons/ecowest';
 import styles from './header.module.css';
 
 export default component$(() => {

@@ -3,6 +3,7 @@ import Footer from "./footer/footer";
 import Header from "./header/header";
 
 export const CUSTOM_COMPONENTS: RegisteredComponent[] = [
+
   {
     component: Footer,
     name: "Footer",
