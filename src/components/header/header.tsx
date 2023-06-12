@@ -4,7 +4,7 @@ import styles from './header.module.css';
 
 export default component$(() => {
   return (
-    <header class={styles.header}></header>
+    <header class={styles.header}>
       <nav
     class="relative flex w-full items-center justify-between bg-white py-2 shadow-sm shadow-neutral-700/10 dark:bg-neutral-800 dark:shadow-black/30 lg:flex-wrap lg:justify-start"
     data-te-navbar-ref>
